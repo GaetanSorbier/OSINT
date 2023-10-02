@@ -4,6 +4,7 @@
 
 - [DaProfiler](https://github.com/daprofiler/DaProfiler) *[FRENCH]*
 - [Social Media OSINT Tools Collection](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection#github)
+- [Cyber Detective's OSINT Tools Collection](https://github.com/cipher387/osint_stuff_tool_collection)
 
 
 # Start.me OSINT :
