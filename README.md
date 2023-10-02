@@ -16,6 +16,6 @@
 
 ## OSINT Platforms
 
-- [OZINT](https://ozint.eu)
-- [OSINT-FR](https://osintfr.com/fr/accueil/)
+- [OZINT](https://ozint.eu) *[FRENCH]*
+- [OSINT-FR](https://osintfr.com/fr/accueil/) *[FRENCH]*
 - [Netlas](https://app.netlas.io)
