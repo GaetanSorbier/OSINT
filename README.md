@@ -20,3 +20,8 @@
 - [OZINT](https://ozint.eu) *[FRENCH]*
 - [OSINT-FR](https://osintfr.com/fr/accueil/) *[FRENCH]*
 - [Netlas](https://app.netlas.io)
+
+## Social Medias
+### Instagram : 
+
+- [Osintgram](https://github.com/Datalux/Osintgram)
