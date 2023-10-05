@@ -22,12 +22,15 @@
 - [Netlas](https://app.netlas.io)
 
 ## Social Medias
-### Instagram : 
+### 📷 Instagram : 
 
 - [Osintgram](https://github.com/Datalux/Osintgram)
+- [InstagramOSINT](https://github.com/sc1341/InstagramOSINT)
 - [Pickui](https://www.picuki.com)
 - [Inflact](https://inflact.com/profiles/instagram-viewer/)
 - [PathSocial](https://www.pathsocial.com/fr/free-instagram-tools/web-viewer-for-instagram/)
 
-### Twitter / X
+### 🕊️ Twitter / X
 - [BirdHunt](https://birdhunt.co)
+- [OneMillionTweetMap](https://onemilliontweetmap.com/)
+- [Twint](https://github.com/twintproject/twint)
