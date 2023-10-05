@@ -25,3 +25,9 @@
 ### Instagram : 
 
 - [Osintgram](https://github.com/Datalux/Osintgram)
+- [Pickui](https://www.picuki.com)
+- [Inflact](https://inflact.com/profiles/instagram-viewer/)
+- [PathSocial](https://www.pathsocial.com/fr/free-instagram-tools/web-viewer-for-instagram/)
+
+### Twitter / X
+- [BirdHunt](https://birdhunt.co)
